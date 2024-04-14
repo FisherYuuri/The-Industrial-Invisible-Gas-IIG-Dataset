@@ -3,3 +3,4 @@ This is the home page for the paper “A Lightweight Network Based on Local-Glob
 
 # GasViT Network
 
+![image](GasViTNetwork.png)
