@@ -13,7 +13,7 @@ The IIG Dataset was collected using the VF330-VOC series of specialised thermal 
 And the dataset will be available after sending an email explaining your purpose to 22225179@zju.edu.cn, thanks!
 
 # Citation
-
+Please give us a STAR if the dataset and code help you!
 ```
 @article{YU2024111138,
 title = {A lightweight network based on local–global feature fusion for real-time industrial invisible gas detection with infrared thermography},
