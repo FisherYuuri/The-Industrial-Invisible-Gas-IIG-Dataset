@@ -257,7 +257,7 @@ class Transformer(nn.Module):
         self.layers = nn.ModuleList([])
         for _ in range(depth):
             self.layers.append(nn.ModuleList([
-                PreNorm(dim, Attention(dim, 8, dropout)),
+                PreNorm(dim, SelfAttention(dim, 8, dropout)),
                 PreNorm(dim, FeedForward(dim, mlp_dim, dropout))
             ]))
 
